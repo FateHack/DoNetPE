@@ -1,0 +1,7 @@
+H:\C#-Project\DotNetPE\bin\Release\DotNetPE.exe
+H:\C#-Project\DotNetPE\bin\Release\DotNetPE.pdb
+H:\C#-Project\DotNetPE\bin\Release\dnlib.dll
+H:\C#-Project\DotNetPE\obj\Release\DotNetPE.csprojAssemblyReference.cache
+H:\C#-Project\DotNetPE\obj\Release\DotNetPE.csproj.CopyComplete
+H:\C#-Project\DotNetPE\obj\Release\DotNetPE.exe
+H:\C#-Project\DotNetPE\obj\Release\DotNetPE.pdb
